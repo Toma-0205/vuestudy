@@ -35,7 +35,7 @@
     data () {
       return {
         items: [
-          { title: '連絡先一覧', icon: 'list', link: { name: 'addresses' } }
+          { title: '連絡先一覧', icon: 'list', link: { name: 'myaddresses' } }
         ]
       }
     },
